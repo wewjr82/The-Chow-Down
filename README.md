@@ -1,3 +1,21 @@
+<h1>The Chow Down</h1>
+<p>The Chow Down was originally a mockup of a restaurant website that was created using HTML and CSS. I decided to convert it into a React mockup, which will allow me to add more interactivity and dynamic content in the near future.</p>
+
+Link to project: https://scintillating-nasturtium-ccd6d8.netlify.app
+![food](https://github.com/wewjr82/The-Chow-Down/assets/68568420/59bbbd32-4870-4bd8-946f-45da034817d9)
+
+
+
+<h2>How It's Made:</h2>
+
+<p>Tech used: React.js & Tailwind CSS</p>
+
+<p>I created The Chow Down using the React.js frontend framework and the Tailwind CSS utility-first CSS framework. These frameworks allowed me to to create The Chow Down in a short amount of time and with a high degree of quality. </p>
+
+<h2>Lessons Learned:</h2>
+<p>Creating The Chow Down was a great way to challenge myself and learn more about React. I was able to familiarize myself with props, state, and useState, which are all important concepts in React. I also learned a lot about Tailwind CSS, which is a great CSS framework for creating responsive and reusable components. I am excited to continue using React and Tailwind CSS in my future web development projects. I believe that these frameworks are powerful tools that can be used to create high-quality web applications.</p>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
