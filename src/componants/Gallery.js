@@ -16,36 +16,36 @@ const Gallery = () => {
       <div className="container grid gap-4 mx-auto lg:grid-cols-3">
         <div className="w-full rounded">
           <img
-            src="https://t4.ftcdn.net/jpg/02/88/58/93/360_F_288589394_Zu1iFCUhIwSBFck8MlByEK8R4FXCW1iv.jpg"
-            alt="image"
+            src="https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZnJpZWQlMjBjaGlja2VufGVufDB8MHwwfHx8Mg%3D%3D"
+            alt="food"
             className="object-cover w-full h-80"
           />
         </div>
         <div className="w-full rounded">
           <img
-            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq5G6LeyV7Pob7Bakz4BqADMW_aJ32EiokUA&usqp=CAU"
-            alt="image"
+            src="https://images.unsplash.com/photo-1629366149329-75525cd8f372?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Y29ybmJyZWFkfGVufDB8MHwwfHx8Mg%3D%3D"
+            alt="food"
             className="object-cover w-full h-80"
           />
         </div>
         <div className="w-full rounded">
           <img
-            src="https://media.istockphoto.com/id/1308274342/photo/southern-style-black-eyed-peas.jpg?b=1&s=170667a&w=0&k=20&c=yNLr70bgdZHPxU60QFcFTK05XFxoBeX90ZRFzBQwghI="
-            alt="image"
+            src="https://images.unsplash.com/photo-1555949258-eb67b1ef0ceb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGFzdGF8ZW58MHwwfDB8fHwy"
+            alt="food"
             className="object-cover w-full h-80"
           />
         </div>
         <div className="w-full rounded">
           <img
             src="https://images.unsplash.com/photo-1612548127010-97b48ffa2aef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c291dGhlcm4lMjBmb29kfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
-            alt="image"
+            alt="food"
             className="object-cover w-full h-80"
           />
         </div>
         <div className="w-full rounded">
           <img
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpSGlJ12iFux3-GJTC2ZHEvnBJLZMzjA-mTw&usqp=CAU"
-            alt="image"
+            alt="food"
             className="object-cover w-full h-80"
           />
         </div>

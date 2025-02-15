@@ -5,7 +5,7 @@ const Hero = () => {
     <div
       className="container max-w-lg px-4 py-32 mx-auto text-left bg-center bg-no-repeat bg-cover md:max-w-none md:text-center "
       style={{
-        backgroundImage: `url('https://images.nappy.co/uploads/large/20191208-7z8a1474-scaled-21596504126tngoqjxoxzozuj6qdiakxpb8rc4grvoed3nk1yyzu0tfw0sujww3z6sxmur4eyf1bkdpkmbwsgq7rgzwxgp2lprztv798lzqn4m6.jpg?auto=format&w=1280&q=75')`,
+        backgroundImage: `url('https://images.nappy.co/photo/8sOvn79NjVA6bryveb6xJ.jpg?h=750&w=1260&cs=srgb&fm=jpg')`,
       }}
     >
       <h1 className="font-mono text-3xl font-extrabold text-transparent bg-clip-text text-white md:text-center sm:leading-none lg:text-5xl">
